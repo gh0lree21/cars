@@ -20,7 +20,7 @@ public class Game extends JPanel {
     private int y;
 
     private int dot;
-    private int balls = 1;
+    private int balls = 10;
     private int dot_x;
     private int dot_y;
 
